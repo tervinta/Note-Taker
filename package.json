@@ -14,11 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kara-krzystan/note-taker.git"
+    "url": "git+https://github.com/tervinta/note-taker.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/kara-krzystan/note-taker/issues"
+    "url": "https://github.com/tervinta/note-taker/issues"
   },
-  "homepage": "https://github.com/kara-krzystan/note-taker#readme"
+  "homepage": "https://github.com/tervinta/note-taker#readme"
 }
